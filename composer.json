@@ -1,0 +1,17 @@
+{
+  "name": "glady/behind-as-dependency-tester",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mike Gladysch",
+      "email": "mail@mike-gladysch.de"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "glady/behind": "0.1.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.8.*"
+  }
+}
